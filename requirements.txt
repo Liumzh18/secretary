@@ -1,0 +1,7 @@
+tkinter
+sqlite3
+pathlib
+ttkbootstrap
+pillow
+customtkinter
+requests
